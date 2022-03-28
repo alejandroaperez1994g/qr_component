@@ -37,7 +37,7 @@ main {
   background-position: center;
   background-repeat: no-repeat;
   width: 90%;
-  height: 60%;
+  height: 85%;
   margin-top: 1rem;
 }
 .main_texts {
@@ -56,6 +56,7 @@ main {
 .main_texts_header h1 {
   font-weight: 700;
   font-size: 1.3rem;
+  color: var(--dark_blue);
 }
 .main_texts_secondary p {
   font-weight: 400;
