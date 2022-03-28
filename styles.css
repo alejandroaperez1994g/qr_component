@@ -67,20 +67,3 @@ main {
 .main_texts {
   border-radius: 0.5rem;
 }
-
-/* @media screen and (min-width: 1440px) {
-  .main {
-    width: 30vw;
-    height: 50vh;
-  }
-  .main_texts {
-    margin: 0 1rem;
-    width: 85%;
-  }
-  .main_texts_header p {
-    font-size: 1.7rem;
-  }
-  .main_texts_secondary p {
-    font-size: 1.5rem;
-  }
-} */
