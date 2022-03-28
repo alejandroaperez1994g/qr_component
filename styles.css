@@ -53,7 +53,7 @@ body {
 .main_texts_secondary {
   text-align: center;
 }
-.main_texts_header p {
+.main_texts_header h1 {
   font-weight: 700;
   font-size: 1.3rem;
 }
